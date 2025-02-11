@@ -48,7 +48,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/ems-platform.git
+   git clone https://github.com/DeepakPatil05/EMS_Platform.git
    cd ems-platform
    ```
 
